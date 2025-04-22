@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lakshansandun545@gmail.com**
 
-- My Portfolio **https://incandescent-lollipop-f4abde.netlify.app/**
+- 🖥  My Portfolio **https://incandescent-lollipop-f4abde.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
